@@ -1,1 +1,6 @@
-Ohkay was a fun photo-editing app I built in a couple days the summer after my senior year in high school. I wrote it in Swift for the iOS platform and it has several neat features. First, I got experience developing an intuitive user interface. As far as features are concerned, it allows you to overlay multiple filters onto the your selected image, paint and add text to the image with different sizes and colors, and add a few graphics to these images. You can also change the size and orientation of the graphics. It was accepted by the iOS app store, but my Apple developer membership died recently, so I put it in GitHub because I want to keep my first project alive in some form.
+Photo-editing iOS application developed in summer 2015. Written in Swift. Intuitive user interface.
+Features:
+- Overlay multiple filters onto image.
+- Paint onto image w/ different colors and sizes.
+- Add graphics and text to image, which can be resized.
+No longer on iOS app store because of membership fees.
